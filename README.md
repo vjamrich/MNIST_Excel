@@ -3,7 +3,7 @@
 Hey guys, this is a quick proof of concept project which aims to train a simple multiclass classification neural network and deploy it in Excel.
 Such deployment can be useful in corporate environments with rigid system integration processes.
 
-The Excel file allows you to draw by clicking on individual cells on the 'board', while the neural network performs predicion in real time.
+The Excel [file](MNIST_Dashboard.xlsm) allows you to draw by clicking on individual cells on the 'board', while the neural network performs predicion in real time. [Try](MNIST_Dashboard.xlsm) it yourself!
 
 
 ## Description
