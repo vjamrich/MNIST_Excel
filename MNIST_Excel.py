@@ -91,4 +91,4 @@ plt.show()
 
 weights = network.get_weights()
 print(weights)
-np.save('Weights_MNIST_Excel.npy', weights)
+np.save('NPY_Weights_MNIST_Excel.npy', weights)
