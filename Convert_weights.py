@@ -1,6 +1,6 @@
 import numpy as np
 
-data = np.load('Weights_MNIST_Excel.npy')
+data = np.load('NPY_Weights_MNIST_Excel.npy')
 labels = ['ReLU weights', 'ReLU biases', 'Softmax weights', 'Softmax biases']
 
 newlist = ""
@@ -17,6 +17,6 @@ for i in range(len(data)):
 
 print(newlist)
 
-text_file = open('Weights_MNIST_Excel.csv', "w")
+text_file = open('CSV_Weights_MNIST_Excel.csv', "w")
 n = text_file.write(newlist)
 text_file.close()
