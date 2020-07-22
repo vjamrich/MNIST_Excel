@@ -20,4 +20,4 @@ Each layer 'lives' on a separate Excel sheet, and their outputs are calculated p
   1. **VBA** (frontend)
   2. **_only_ Excel formulas** (backend)
 
-![](Preview.png)
+![](MNIST_Excel_Showcase.gif)
